@@ -7,4 +7,4 @@ age_period = age + period
 year = 2021
 past_year = year - age
 print('Через', period, 'лет ваш возраст будет', age_period, 'лет')
-print('А ровно', age, 'лет назад на дворе был', past_year, 'год')
+print ('А ровно', age, 'лет назад на дворе был', past_year, 'год')
